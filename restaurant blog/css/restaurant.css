@@ -1,0 +1,829 @@
+
+
+#header{
+    width:100%;
+    height: 150px;
+    background-color:black;
+}
+#header h1{
+    text-align: center;
+    color:blanchedalmond;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 40px;
+    padding-top: 20px;
+}
+#menubar ul{
+    float:center;
+    margin-top: 10px;
+    
+
+
+}
+#menubar ul li{
+    display:inline;
+    list-style-type: none;
+    margin-right:10px;
+
+}
+#menubar{
+    width:100%;
+    float: center;
+    margin: 0 auto;
+    
+    text-align: center;
+}
+#menubar a{
+    text-decoration: none;
+    color:blanchedalmond;
+    font-size:18px ;
+    
+}
+.hr1{
+     width:60%;
+     color: grey;
+ }         
+
+#bgimg{
+ width:100%;
+ background-size: cover;
+ background-position: center;
+ height: 100vh;
+
+ background-image: url("../image/img3.jpg");
+ 
+}
+
+#top{
+    width:100%;
+    height: 500px;
+    background-color:black;
+}
+#top h1{
+    text-align: center;
+    color:blanchedalmond;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 60px;
+    padding-top: 50px;
+}
+#top h2{
+    text-align: center;
+    color:cornsilk;
+    padding-top: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 30px;
+}
+#top p{
+    text-align: center;
+    color:cornsilk;
+    padding-top: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+#top h3{
+    text-align: center;
+    color:cornsilk;
+    padding-top: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+#about{
+    width:100%;
+    height:800px;
+    background-color:#cff09e;
+}
+#about1{
+    width:445px;
+    margin:0 auto;
+  padding-top: 40px;
+    
+}
+
+#about1 img{
+    width:100%;
+    height: 300px;
+   
+    margin: 0 auto;
+
+}
+#about h1{
+    text-align: center;
+    color:grey;
+    padding-top: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+}
+#about h2{
+    text-align: center;
+    color:black;
+    
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 30px;
+}
+#about p{
+    text-align: center;
+    color:black;
+   
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+     
+}
+#about h3{
+    text-align: center;
+    color:black;
+   
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding-top: 20px;
+}
+#container1{
+    width:100%;
+    height: 2290px;
+    background-color: #a1bad0;
+   
+}
+#container1 h1{
+    text-align: center;
+    color:#FF1A00;
+    padding-top: 40px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size:60px ;
+}
+#container2{
+    width:90%;
+    margin:0 auto;
+}
+#container3{
+    width:90%;
+    margin:0 auto;
+}
+#box1{
+    width:48%;
+    height: 400px;
+    padding-top: 70px;
+   float: left;
+   margin-right: 4%;
+}
+#box2{
+    width:48%;
+    height: 400px;
+   
+    float: right;
+}
+#box2 h2{
+    
+    color:#FF1A00;
+   
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size:50px ;
+}
+#box2 p{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size:20px ;
+    color:black;
+}
+
+#box1 img{
+    width:100%;
+  
+  
+}
+#box3{
+    width:48%;
+    height: 500px;
+   
+   float: left;
+   margin-right: 4%;
+}
+#box3 h2{
+    color:#FF1A00;
+   
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size:50px ;
+}
+#box3 p{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size:20px ;
+    color:black;
+}
+#box4{
+    width:48%;
+    height: 500px;
+    float: right;
+    padding-top: 70px;
+
+}
+#box4 img{
+    width:100%;
+  
+}
+#container4{
+    width: 90%;
+    margin: 0 auto;
+}
+
+#box5{
+    width:48%;
+    height: 400px;
+   padding-top: 180px;
+   float: left;
+   margin-right: 4%;
+}
+#box5 img{
+    width:100%;
+   
+}
+#container5{
+    width: 90%;
+    margin: 0 auto;
+ 
+}
+#box6{
+    width:48%;
+    height: 400px;
+    padding-top: 40px;
+    float: right;
+}
+#box6 h2{
+    color:#FF1A00;
+   
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size:50px ;
+}
+#box6 p{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size:20px ;
+    color:black;
+
+}
+
+#box7{
+    width:48%;
+    height: 400px;
+    
+   float: left;
+   margin-right: 4%;
+}
+#box7 h2{
+    color:#FF1A00;
+   
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size:50px ;
+}
+#box7 p{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size:20px ;
+    color:black;
+
+}
+
+#box8{
+    width:48%;
+    height: 400px;
+    padding-top: 80px;
+ 
+    float: right;
+}
+#box8 img{
+    width:100%;
+   
+}
+
+
+
+
+
+
+
+#post{
+    width:100%;
+    height: 2000px;
+    background-color: rgb(230, 223, 165);
+    
+}
+#post1{
+    width:60%;
+    margin:0 auto;
+}
+#post h1{
+    text-align: center;
+    color:palevioletred;
+    padding-top: 40px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size:60px ;
+}
+#post h2{
+    
+    color:black;
+    padding-top: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    font-size:40px ;
+}
+#post p{
+    text-align: center;
+    width:100%;
+    color:black;
+    padding-top: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+#post2 {
+    border: 1px solid black;
+  
+}  
+#post img{
+    width:700px;
+    padding-left: 45px;
+    padding-top: 60px;
+    
+}
+#icons i{
+    padding-right: 20px;
+    font-size:20px ;
+    padding-top: 20px;
+
+}   
+.t1{
+    color: grey;
+    font-size: 20px;
+}
+.t1 i{
+    color: red;
+}
+#box{
+    width:100%;
+    
+    height: 600px;
+   
+
+    
+}
+#boxes1{
+    width:60%;
+    height: 600px;
+    margin: 0 auto;
+ 
+    
+}
+#b1{
+    
+    width:48%;
+    height: 350px;
+    float: left;
+   
+    border:1px solid black ;
+       
+    
+     
+}
+#b2{
+    width:48%;
+    height: 350px;
+    float: right;
+    
+   
+   
+    border:1px solid black ;
+}  
+
+#b1 img{
+    width: 100%;
+    height: 200px;
+  
+   
+    
+}
+#box h1{
+    text-align: center;
+    color:palevioletred;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 50px;
+    padding-top: 30px;
+}
+
+#b1 p{
+    text-align: center;
+    color:palevioletred;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+} 
+#b2 img{
+    width: 100%;
+    height: 200px;
+  
+}
+#b2 p{
+    text-align: center;
+    color:palevioletred;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+}  
+
+#b3 p{
+    text-align: center;
+    color:palevioletred;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+}  
+
+
+#form1{
+    width: 100%;
+    height: 500px;
+    background-color: black;
+}
+#form1 h1{
+    text-align: center;
+    color:white;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 30px;
+    padding-top: 100px;
+    
+}
+#form1 h2{
+    text-align: center;
+    color:white;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    
+}
+#form{
+    padding-top: 10px;
+    padding-left: 200px;
+    
+}
+#form input{
+    outline:none;
+    border: none;
+    background:none;
+    margin-top: 20px;
+    width:800px;
+    border:2px solid white;
+    padding:10px 30px 10px 30px;
+    text-decoration: none;
+    color:white;
+    margin:0 auto;
+    font-size: 15px;
+}
+#form a{
+    padding-top: 30px;
+    outline:none;
+    border: none;
+    background:none;
+    margin-top: 20px;
+   
+    border:2px solid black;
+    padding:10px 403px 10px 403px;
+    text-decoration: none;
+    color:black;
+    
+    background-color: white;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+ }
+ #con{
+    width:100%;
+    height:700px;
+    background-color:#fae3d9;
+ }
+#contact{
+    width:50%;
+    height:700px;
+    background-color:#fae3d9;
+    float: left;
+    
+}
+#contact img{
+    padding-top: 80px;
+    width:100%;
+    height: 500px;
+    float: left;
+    padding-left: 60px;
+}
+#contact1{
+    width:50%;
+    float: right;
+}
+#contact1 h1{
+    padding-top:80px ;
+    text-align: center;
+    font-size: 70px;
+    
+}
+#form2 input{
+    margin-left: 100px;
+    border: none;
+    outline: none;
+    width:400px;
+    padding:10px 40px 10px 40px;
+    border-bottom:1px solid black;
+}
+#t3{
+    margin-left: 100px;
+    width:400px;
+    padding:10px 40px 10px 40px;
+}
+#form2 a {
+    margin-left: 100px;
+    border: none;
+    outline: none;
+    width:400px;
+    padding:10px 210px 10px 210px;
+    border:1px solid black;
+    text-decoration: none;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+}
+#footer{
+    width:100%;
+    height: 150px;
+    background-color: black;
+  
+}
+#f1 p{
+
+    padding-left: 200px;
+    color: white;
+    padding-top: 60px;
+    float: left;
+    font-size: 15px;
+}
+#f2{
+    float: right;
+    padding-top: 80px;
+    padding-right: 100px;
+    
+}
+#f2 i{
+    color: white;
+}
+
+@media only screen and (max-width:480px)
+{   
+    #menubar{
+        width:100%;
+    }
+    #bgimg{
+    
+        width:100%;
+        background-size: cover;
+        background-position: center;
+        height: 100vh;
+        background-attachment: fixed;
+ 
+    }
+    #top{
+        width:100%;
+    }
+    #top h1{
+        
+        font-size: 50px; 
+    }
+    #about{
+        width:100%;
+    }
+    .eat{
+        width: 200px;
+        height: 70px;
+        padding: 0;
+       
+       
+    }
+    #container1{
+        width: 100%;
+     height: 3800px;
+      
+    }
+    #container2{
+        width:100%;
+       
+    }
+    #container3{
+        width:100%;
+       }
+    #container4{
+        width:100%;
+    }
+    #box1{
+        width:100%;
+    }
+    #box1 img{
+        width: 100%;
+        
+        
+    }
+    #box2{
+        width: 100%;
+      
+        
+    }
+    #box3{
+        width: 100%;
+
+        
+        
+    }
+    #box4{
+        width:100%;
+      
+    }
+    #box5{
+        width:100%;
+        
+       }
+    #box6{
+        width:100%;
+      
+    }
+    #box7{
+        width:100%;
+      
+    }
+    #box8{
+        width: 100%;
+      
+        
+    }
+    #container3{
+        margin-top: 300px;
+       
+        
+    }
+    
+    #box2 h2{
+        width:100%;
+    }
+    #box2 p{
+        width:100%;
+    }
+    #box3 img{
+        width:100%;
+       
+    }
+    #box4{
+        width:100%;
+    
+    
+        
+    }
+    #box4 img{
+        width:100%;
+      
+    }
+    #box5{
+        width: 100%;
+        padding-top: 0px;
+    }
+    #box5 img{
+        width:100%;
+    }
+    #box6{
+        width:100%;
+    }
+  
+    #box7 {
+        width:100%;
+        padding-left: 0px;
+    }
+    #box7 h1{
+        width: 100%;
+    }
+    #box7 p{
+        width: 100%;
+    }
+    #box8{
+        width: 100%;
+       
+    }
+
+    #box8 img{
+        width:100%;
+        padding-left: 0px;
+        border: 1px solid black;
+        
+    }
+ 
+  
+   
+    #post{
+        width:100%;
+        height: 2250px;
+        
+    }
+    #post1{
+        width:100%;
+    }
+    #post2 img{
+        width:100%;
+       padding: 0;
+    }
+    #box{
+        width:100%;
+        height: 900px;
+        
+    }
+    #boxes1{
+        width: 100%;
+    }
+    #b1{
+        width:100%;
+      
+    }   
+    #b1 img{
+        width:100%;
+
+      
+    }
+    #b2{
+        width:100%;
+       margin-top: 20px;
+    }
+    #b2 img{
+        width: 100%;
+        
+    }
+    #form1{
+        width:100%;
+    }
+    #form{
+        width: 100%;
+        height: 100px;
+        padding-top: 70px;
+       padding-left: 0px;
+    }
+    #form input{
+        width:400px;
+      
+        height: 30px;
+    }
+    #form a{
+        width:100%;
+        height: 30px;
+        padding:10px 210px 10px 191px;
+    }
+    #con{
+        width:100%;
+        height:1300px ;
+       
+    }
+    #contact{
+        width:100%;
+    
+        
+    }
+    #contact img{
+        width:100%;
+        padding: 0;
+    }
+    #contact1{
+        width:100%;
+        padding: 0;
+     
+    }
+    #form2 input{
+        margin-left: 0px;
+     
+        width:100%;
+        padding:10px 0px 10px 0px;
+        border-bottom:1px solid black;
+    }
+    #t3{
+        margin-left: 0px;
+        width:100%;
+        padding:10px 0px 10px 0px;
+    }
+    #form2 a {
+        margin-left: 0px;
+      
+        width:100%;
+        padding:15px 160px 15px 245px;
+       
+        text-align: center;
+    }
+    #footer{
+        width:100%;
+       
+    }
+    #f1{
+        width:100%;
+      
+        
+    }
+    #f1 p{
+        padding-left: 70px;
+        padding-top: 30px;
+     
+    }
+    
+  #f2{
+      width: 100%;
+      padding-right: 0px;
+      text-align: center;
+      float: right;
+      padding-top: 10px;
+  }
+    #f2 i{
+        color: white;
+       
+        padding-top: 0px;
+    }
+}
